@@ -1,37 +1,30 @@
 # iooi Website
 
-The official website for iooi, a macOS application that serves as your shortcut to Web3.
+Welcome to the iooi website repository - Your shortcut to Web3!
 
-## About
+## Overview
 
-This repository contains the source code for the [iooi.io](https://iooi.io) website. The site is built using HTML, CSS, and JavaScript, and is hosted on GitHub Pages.
+This repository contains the official website for iooi, a desktop shortcut tool designed for Web3 users, supporting multiple blockchains including Ethereum, Base, BSC, Solana, and many others.
 
 ## Features
 
 - Modern, responsive design
-- Vantajs background animation
-- Cross-browser compatibility
-- Mobile-friendly layout
+- Multi-chain support display
+- Interactive elements
+- SEO optimized
+- Custom domain integration (iooi.io)
 
 ## Development
 
-To run this site locally:
-
-1. Clone the repository
-2. Open `index.html` in your browser
+Built with:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## Deployment
 
-The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
-
-### To set up GitHub Pages:
-
-1. Go to repository Settings > Pages
-2. Select "Deploy from a branch" as the source
-3. Choose "main" branch and "/ (root)" folder
-4. Save the configuration
-5. Custom domain is configured via the CNAME file
+The website is deployed using GitHub Pages and is accessible at [iooi.io](https://iooi.io).
 
 ## License
 
-Copyright (c) 2024 iooi. All rights reserved.
+Copyright © 2025 iooi. All rights reserved.
