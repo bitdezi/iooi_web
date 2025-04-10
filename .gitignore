@@ -1,0 +1,29 @@
+# 设计文档和素材文件
+/PRDs/
+/PRDs/*
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Node 相关文件（如果需要）
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# 编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 其他常见忽略文件
+*.log
+*.bak
+*.tmp 
